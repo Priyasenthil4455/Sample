@@ -4,6 +4,7 @@ public class Product
   {
       int a=32;
       int b=5;
+      int e = 8;
       int c = a+b;
       System.out.println(c);
   }
